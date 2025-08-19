@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 function Counter({ index, count, onIncrease, onDecrease }) {
   return (
     <div className="counter">
