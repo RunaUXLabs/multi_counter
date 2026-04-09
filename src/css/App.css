@@ -24,3 +24,7 @@
   width: 100px;
   justify-content: flex-end;
 }
+.total {
+  padding: 20px;
+  font-weight: 700;
+}
